@@ -12,6 +12,6 @@
     <references />
   </metadata>
   <files>
-	<file src="backbone.wreqr\src\build\backbone.wreqr.js" target="Content\Scripts" />
+	<file src="backbone.wreqr\lib\backbone.wreqr.*" target="Content\Scripts" />
   </files>
 </package>
